@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    background-color: rgb(255, 255, 83);
+}
+
+p{
+    color: blue;
+}
+
+.about_me{
+    text-align: justify;
+}
+
+.head{
+    text-align: center;
+}

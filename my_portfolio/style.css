@@ -1,0 +1,24 @@
+html{
+    background-color: rgb(155, 228, 171);
+}
+
+h2{
+    color: red;
+}
+
+.head{
+    color: red;
+    background-color: rgb(225, 228, 21);
+}
+
+body{
+    text-align: justify;
+}
+
+footer{
+    background-color: rgb(233, 244, 131);
+}
+
+a{
+    color: blue;
+}
