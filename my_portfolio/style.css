@@ -1,9 +1,22 @@
+div div{
+    color: white;
+    background-color: aqua;
+    display:flex;
+    justify-content: center;
+
+    
+}
 html{
     background-color: rgb(155, 228, 171);
 }
 
 h2{
     color: red;
+    
+}
+
+h4 {
+  text-decoration: underline;
 }
 
 .head{
@@ -13,6 +26,8 @@ h2{
 
 body{
     text-align: justify;
+    flex-basis: 100%;
+    flex-grow: 1;
 }
 
 footer{
@@ -21,4 +36,5 @@ footer{
 
 a{
     color: blue;
+  
 }
